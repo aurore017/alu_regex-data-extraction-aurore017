@@ -24,6 +24,3 @@ Sensitive data such as emails and credit card numbers are masked before being di
 - Sensitive information is never printed in full.
 - The program assumes all input may be untrusted.
 
-# Project Structure
-
-
