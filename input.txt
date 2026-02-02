@@ -1,0 +1,27 @@
+Hello Team,
+
+Please contact our support staff using one of the following emails:
+support@company.co.uk
+admin@test.com
+
+Visit our main website:
+https://www.example.com
+
+For urgent matters, call us at:
+123-456-7890
+
+A payment was made using this card:
+1234 5678 9012 3456
+
+Upcoming meetings are scheduled at:
+14:30
+2:30 PM
+
+Trending topics on social media:
+#Python
+#Regex101
+
+Suspicious input attempts (ignored by the program):
+<script>alert('hack')</script>
+javascript:alert(1)
+
